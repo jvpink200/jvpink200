@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jvpink200
 - 👀 I’m interested in front end development and full stack development
-- 🌱 I completed the MERN Full Stack through NuCamp and have some software developer experience with back end language being PHP. 
+- 🌱 I completed the MERN Full Stack through NuCamp and have some software developer experience with my back end language being PHP as well as knowing some SQL. 
 - 💞️ I’m looking to collaborate on Projects for well funded startups or established small to medium sized companies to help solve real world problems.
 - 📫 jvillarr20@gmail.com
 
